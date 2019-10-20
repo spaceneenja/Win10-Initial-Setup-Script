@@ -117,7 +117,7 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 # HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 # HideTaskView                    # ShowTaskView
 # ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
-SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
+# SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 ShowTrayIcons                   # HideTrayIcons
 # ShowSecondsInTaskbar          # HideSecondsFromTaskbar
@@ -141,7 +141,7 @@ DisableChangingSoundScheme    # EnableChangingSoundScheme
 DisableF1HelpKey                # EnableF1HelpKey
 
 ### Explorer UI Tweaks ###
-ShowExplorerTitleFullPath     # HideExplorerTitleFullPath
+# ShowExplorerTitleFullPath     # HideExplorerTitleFullPath
 ShowKnownExtensions             # HideKnownExtensions
 ShowHiddenFiles                 # HideHiddenFiles
 # ShowSuperHiddenFiles          # HideSuperHiddenFiles
@@ -222,7 +222,7 @@ UninstallFaxAndScan           # InstallFaxAndScan
 # EnableAudio                   # DisableAudio
 
 ### Unpinning ###
-# UnpinStartMenuTiles
+UnpinStartMenuTiles
 # UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
