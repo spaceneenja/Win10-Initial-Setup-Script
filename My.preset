@@ -163,8 +163,8 @@ HideRecentShortcuts             # ShowRecentShortcuts
 # HideQuickAccess                 # ShowQuickAccess
 # HideRecycleBinFromDesktop     # ShowRecycleBinOnDesktop
 # ShowThisPCOnDesktop             # HideThisPCFromDesktop
-ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
-ShowControlPanelOnDesktop     # HideControlPanelFromDesktop
+# ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
+# ShowControlPanelOnDesktop     # HideControlPanelFromDesktop
 # ShowNetworkOnDesktop          # HideNetworkFromDesktop
 # HideDesktopIcons              # ShowDesktopIcons
 # ShowBuildNumberOnDesktop      # HideBuildNumberFromDesktop
